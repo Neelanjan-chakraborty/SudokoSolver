@@ -36,11 +36,11 @@ Note: Make sure the server is running (`app.py`) before making these API calls.
 
 5. Test the GUI (optional): If you want to test the GUI interface, you can run the `run.bat` file. This will open the GUI application, allowing you to interact with the Sudoku solver visually.
 
-![Screenshot](https://i.ibb.co/vHyBf2S/Copy-of-pol-2.gif)
-![Screenshot](https://i.ibb.co/vHyBf2S/Copy-of-pol-2.gif)
-![Screenshot](https://i.ibb.co/vHyBf2S/Copy-of-pol-2.gif)
-![Screenshot](https://i.ibb.co/vHyBf2S/Copy-of-pol-2.gif)
-![Screenshot](https://i.ibb.co/vHyBf2S/Copy-of-pol-2.gif)
+![Screenshot](Screenshot%20(166).png)
+![Screenshot](Screenshot%20(167).png)
+![Screenshot](Screenshot%20(168).png)
+![Screenshot](Screenshot%20(169).png)
+![Screenshot](Screenshot%20(170).png)
 
 
 Note: The GUI relies on the Flask server being running in the background.
